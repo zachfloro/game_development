@@ -8,8 +8,6 @@ import random
 # Import pygame.locals for easier access to key coordinates
 from pygame.locals import RLEACCEL, K_UP, K_DOWN, K_LEFT, K_RIGHT, K_ESCAPE, KEYDOWN, QUIT
 
-# Setup for sounds. Defaults are good.
-pygame.mixer.init()
 
 pygame.init()
 
